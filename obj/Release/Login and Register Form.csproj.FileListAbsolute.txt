@@ -1,0 +1,16 @@
+D:\C#\Login and Register Form\bin\Release\Login and Register Form.exe.config
+D:\C#\Login and Register Form\bin\Release\Login and Register Form.exe
+D:\C#\Login and Register Form\bin\Release\Login and Register Form.pdb
+D:\C#\Login and Register Form\bin\Release\MySql.Data.dll
+D:\C#\Login and Register Form\bin\Release\System.Memory.dll
+D:\C#\Login and Register Form\bin\Release\System.Threading.Tasks.Extensions.dll
+D:\C#\Login and Register Form\bin\Release\System.Numerics.Vectors.dll
+D:\C#\Login and Register Form\bin\Release\System.Buffers.dll
+D:\C#\Login and Register Form\bin\Release\MySql.Data.xml
+D:\C#\Login and Register Form\obj\Release\Login and Register Form.csproj.AssemblyReference.cache
+D:\C#\Login and Register Form\obj\Release\Login_and_Register_Form.Properties.Resources.resources
+D:\C#\Login and Register Form\obj\Release\Login and Register Form.csproj.GenerateResource.cache
+D:\C#\Login and Register Form\obj\Release\Login and Register Form.csproj.CoreCompileInputs.cache
+D:\C#\Login and Register Form\obj\Release\Login and Register Form.csproj.CopyComplete
+D:\C#\Login and Register Form\obj\Release\Login and Register Form.exe
+D:\C#\Login and Register Form\obj\Release\Login and Register Form.pdb
